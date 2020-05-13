@@ -4,6 +4,10 @@ Package for making beautiful infinite tab button.
 
 # Getting Started
 
+This package acting like infinite MaterialTab, but this is only button.
+![ss](https://raw.githubusercontent.com/pahlevikun/Infinite-Tab-Button/master/screenshot/ss_01.png)
+
+
 # How To Use
 The `InfiniteTabButton` can be used directly.
 ```Dart
