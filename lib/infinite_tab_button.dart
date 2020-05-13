@@ -16,7 +16,7 @@ class InfiniteTabButton extends StatefulWidget {
         this.cornerRadius = 10,
         this.height = 40,
         this.shrinkWrap = false,
-        this.onTap = null})
+        this.onTap})
       : super(key: key);
 
   final List<TabButtonModel> items;

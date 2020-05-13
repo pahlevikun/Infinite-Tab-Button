@@ -1,6 +1,6 @@
 name: infinite_tab_button
-description: Package for making beautiful infinite tab button.
-version: 0.0.1
+description: Package for making beautiful infinite tab button. You can use only button for making MaterialTab look alike behaviour.
+version: 0.0.1-beta
 author: Farhan Yuda Pahlevi<pahlevi.kun@gmail.com>
 homepage: https://github.com/pahlevikun/Infinite-Tab-Button.git
 
